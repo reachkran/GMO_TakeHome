@@ -1,0 +1,6 @@
+c:\users\bobby\documents\visual studio 2013\Projects\SeekClosestToAvge\SeekClosestToAvge\bin\Debug\SeekClosestToAvge.exe.config
+c:\users\bobby\documents\visual studio 2013\Projects\SeekClosestToAvge\SeekClosestToAvge\bin\Debug\SeekClosestToAvge.exe
+c:\users\bobby\documents\visual studio 2013\Projects\SeekClosestToAvge\SeekClosestToAvge\bin\Debug\SeekClosestToAvge.pdb
+c:\users\bobby\documents\visual studio 2013\Projects\SeekClosestToAvge\SeekClosestToAvge\obj\Debug\SeekClosestToAvge.csprojResolveAssemblyReference.cache
+c:\users\bobby\documents\visual studio 2013\Projects\SeekClosestToAvge\SeekClosestToAvge\obj\Debug\SeekClosestToAvge.exe
+c:\users\bobby\documents\visual studio 2013\Projects\SeekClosestToAvge\SeekClosestToAvge\obj\Debug\SeekClosestToAvge.pdb
